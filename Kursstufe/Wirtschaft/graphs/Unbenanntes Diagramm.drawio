@@ -67,6 +67,9 @@
         <mxCell id="kLmIG4iRkcMbvo4lLbTO-15" value="Moral Hazard&lt;div&gt;(Hidden Actions)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kLmIG4iRkcMbvo4lLbTO-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Prinzipal Agent Theory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="660" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
